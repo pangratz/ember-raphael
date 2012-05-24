@@ -1,0 +1,1 @@
+This is the port of the [excellent](http://blog.sproutcore.com/using-raphael-js-with-sproutcore-2-0/) example of using [Raphaël.js](http://raphaeljs.com/) in SproutCore 2.0 by [Johannes Fahrenkrug](https://github.com/jfahrenkrug). The original repository is at [jfahrenkrug/sproutcore-raphael](https://github.com/jfahrenkrug/sproutcore-raphael).
